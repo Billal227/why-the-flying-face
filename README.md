@@ -33,7 +33,7 @@ The experience starts simple, then escalates through five distinct biomes with c
 
 ## How To Play
 
-1. Open `whytheflyingface.html` in a browser.
+1. Open `whytheflyingface.html` in a browser, or play directly at https://sentientsaur.itch.io/why-the-flying-face
 2. Upload a photo, or choose **Play With Default Face**.
 3. Press **Space**, tap, or click to flap.
 4. Fly through pipe gaps to score points.
@@ -59,3 +59,6 @@ The experience starts simple, then escalates through five distinct biomes with c
 
 **Why The Flying Face**  
 Developed by **Bilal Tariq — Sentientsaur on Itch.io**
+## 🎮 Play The Game
+
+*Play on Itch.io:* https://sentientsaur.itch.io/why-the-flying-face
